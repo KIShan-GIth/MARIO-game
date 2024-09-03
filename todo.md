@@ -8,7 +8,6 @@
 [] Creating Enemies
     [*] Creating Goomba
     [*] Creating Goomba
-[not  done start from lecture form 12  rest files are misiing ] Adding collision b/w different Entities
 [] Adding coins 
 [] Adding Bricks
 [] Adding Mushroom
